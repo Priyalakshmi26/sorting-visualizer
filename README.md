@@ -3,9 +3,9 @@
 
 <p>
   Run in your local
-git clone https://github.com/Priyalakshmi26/sorting-visualiser.git
-npm install (after navigating inside the directory)
-npm start
+git clone https://github.com/Priyalakshmi26/sorting-visualiser.git <br>
+npm install (after navigating inside the directory) <br>
+npm start <br>
   </p>
   
   </p>
