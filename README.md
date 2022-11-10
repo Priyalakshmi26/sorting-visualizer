@@ -2,7 +2,7 @@
 <h3>Live Demo :https://sorting-visualiser-react.netlify.app/ </h3>
 
 <p>
-  Run in your local
+  <b> Run in your local <b> <br>
 git clone https://github.com/Priyalakshmi26/sorting-visualiser.git <br>
 npm install (after navigating inside the directory) <br>
 npm start <br>
