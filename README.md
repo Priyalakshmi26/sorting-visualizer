@@ -2,6 +2,14 @@
 <h3>Live Demo :https://sorting-visualiser-react.netlify.app/ </h3>
 
 <p>
+  Run in your local
+git clone https://github.com/Priyalakshmi26/sorting-visualiser.git
+npm install (after navigating inside the directory)
+npm start
+  </p>
+  
+  </p>
+<p>
   # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
