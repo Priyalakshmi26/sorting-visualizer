@@ -3,7 +3,7 @@
 
 <p>
   <b> Run in your local <b> <br>
-git clone https://github.com/Priyalakshmi26/sorting-visualiser.git <br>
+git clone https://github.com/Priyalakshmi26/sorting-visualizer.git <br>
 npm install (after navigating inside the directory) <br>
 npm start <br>
   </p>
